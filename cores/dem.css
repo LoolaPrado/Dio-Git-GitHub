@@ -1,0 +1,22 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(121, 152, 207);
+}
+
+main {
+    background-color: black;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 8px 8px 10px rgb(red, green, blue);
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    color: blueviolet;
+}
